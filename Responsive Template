@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<!--  Include the viewport meta tag to to give the browser instructions on how to handle the page  -->
+	<!-- width=device-scale set's the width to fit the screen size & initial-scale=1 set's the initial zoom -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Put your own title here.</title>
+
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css">
+
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+	<script type="text/javascript" src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+
+	<!-- Link to your own CSS file -->
+  <link rel="stylesheet" type="text/css" href="ownfile.css">
+
+</head>
+
+<body>
+	<header>
+		<!-- This is a basic dark fixed top nav bar with a main header and sub header -->
+		<div class="jumbotron">
+			<div class="container">
+				<h1 class="title">Head 1</h1>
+				<h3 class="title">Header 2</h3>
+			</div>
+				<nav class="navbar navbar-inverse navbar-fixed-top">
+					<div class="container-fluid">
+						<div class="navbar-header">
+							<a class="navbar-brand" href="#.html">Own Text</a>
+						</div>
+						<div>
+							<ul class="navbar navbar-nav">
+								<li class="active"><a href="#.html">Home</a></li>
+								<li><a href="#.html">About</a></li>
+								<li><a href="#.html">Portfolio</a></li>
+								<li><a href="#.html">Contact</a></li>
+							</ul>
+						</div>
+					</div>
+				</nav>
+	</header>
+
+<!-- Place the rest of your content here and link to any files as you normally would -->
+
+
+
+
+
+
+
+<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</body>
+
+
+</html>
